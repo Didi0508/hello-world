@@ -1,5 +1,4 @@
 # hello-world
-Just checking things out
 
 Hi fellow homo sapiens!
 
